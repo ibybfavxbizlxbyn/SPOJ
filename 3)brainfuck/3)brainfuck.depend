@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1483978855 source:c:\users\nikolay\desktop\3)brainfuck\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
